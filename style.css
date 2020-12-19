@@ -1,0 +1,70 @@
+
+#list {
+  background-color: rgb(238, 130, 238);
+  background-size:
+}
+
+body {
+  background-color: rgb(255, 229, 204)
+}
+
+h1 {
+  color: seagreen;
+  font-family: monospace, Monaco;
+  font-size: 40px;
+}
+
+#list li {
+  list-style-type: none;
+  display: inline;
+  padding: 150px;
+  color: black;
+  font-size: 50px;
+  font-family: fantasy, papyrus;
+}
+
+#bot {
+  font-size: 20px;
+  color: seagreen;
+}
+
+.movielist {
+  color: rgb(0, 102, 102);
+  font-size: 20px;
+}
+
+#movienames {
+  font-size: 20px;
+  color: blue;
+  list-style: none;
+}
+
+a:link {
+  color: teal;
+}
+a:visited {
+  color: teal;
+}
+
+#honestly {
+  font-size: 25px;;
+  color: black;
+  font-family: fantasy, papyrus;
+}
+
+.bandlist {
+  color: rgb(0, 102, 102);
+  font-size: 20px;
+}
+
+#bandnames {
+  font-size: 20px;
+  color: rgb(204, 0, 0);
+  list-style: none;
+}
+
+#band {
+  font-size: 20px;
+  color: rgb(205, 0, 205)
+
+}
