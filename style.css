@@ -1,17 +1,20 @@
 
 #list {
-  background-color: rgb(238, 130, 238);
-  background-size:
 }
 
 body {
-  background-color: rgb(255, 229, 204)
+  background-color: rgb(255, 128, 176)
+}
+
+#les h1 {
+  font-family: monospace, Monaco;
+  font-size: 55px;
+  text-shadow: 2px 2px rgb(230,232,250);
 }
 
 h1 {
-  color: seagreen;
   font-family: monospace, Monaco;
-  font-size: 40px;
+  font-size: 55px;
 }
 
 #list li {
@@ -20,51 +23,38 @@ h1 {
   padding: 150px;
   color: black;
   font-size: 50px;
-  font-family: fantasy, papyrus;
+  font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 #bot {
-  font-size: 20px;
-  color: seagreen;
+  font-size: 25px;
+  color: black;
 }
 
 .movielist {
-  color: rgb(0, 102, 102);
+  color: black;
   font-size: 20px;
 }
 
-#movienames {
-  font-size: 20px;
-  color: blue;
-  list-style: none;
-}
 
 a:link {
-  color: teal;
+  color: black;
 }
 a:visited {
-  color: teal;
+  color: black;
 }
 
 #honestly {
   font-size: 25px;;
   color: black;
-  font-family: fantasy, papyrus;
 }
 
 .bandlist {
-  color: rgb(0, 102, 102);
   font-size: 20px;
 }
 
-#bandnames {
+#names {
   font-size: 20px;
-  color: rgb(204, 0, 0);
   list-style: none;
-}
-
-#band {
-  font-size: 20px;
-  color: rgb(205, 0, 205)
-
+  color: rgb(168, 0, 62)
 }
