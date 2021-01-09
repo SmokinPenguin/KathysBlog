@@ -109,11 +109,11 @@ h1 {
 }
 
 #foot {
-  position: relative;
+  position: fixed;
   bottom: 4px;
 }
 
 footer {
-  position: relative;
+  position: fixed;
   bottom: 4px;
 }
