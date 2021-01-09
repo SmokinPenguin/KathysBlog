@@ -95,14 +95,25 @@ h1 {
 
 #write-out {
   font-size: 35px;
-  width: 600px;
+  width: 900px;
   margin-left: 30px;
-  position: relative;
+  z-index: 1;
 }
 
 #imagi-img {
   float: right;
   height: 650px;
   width: 450px;
-  margin-right: 100px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+#foot {
+  position: relative;
+  bottom: 4px;
+}
+
+footer {
+  position: fixed;
+  bottom: 4px;
 }
