@@ -113,3 +113,9 @@ footer {
   bottom: 0;
   left: 0;
 }
+
+#main-pages {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
