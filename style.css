@@ -108,12 +108,7 @@ h1 {
   margin-left: 20px;
 }
 
-#foot {
-  position: fixed;
-  bottom: 4px;
-}
-
 footer {
   position: fixed;
-  bottom: 4px;
+  bottom: 0px;
 }
