@@ -114,6 +114,6 @@ h1 {
 }
 
 footer {
-  position: fixed;
+  position: absolute;
   bottom: 4px;
 }
