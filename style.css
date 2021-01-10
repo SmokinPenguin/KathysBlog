@@ -43,8 +43,11 @@ h1 {
   color: black;
 }
 .bot li {
-  font-size: 25px;
+  font-size: 20px;
   color: black;
+}
+#bootom {
+  padding-bottom: 50px
 }
 
 .movielist {
