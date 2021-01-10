@@ -38,7 +38,11 @@ h1 {
   font-size: 55px;
 }
 
-#bot {
+.bot p {
+  font-size: 25px;
+  color: black;
+}
+.bot li {
   font-size: 25px;
   color: black;
 }
