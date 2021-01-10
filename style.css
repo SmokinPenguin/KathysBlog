@@ -38,6 +38,11 @@ h1 {
   font-size: 55px;
 }
 
+#path {
+  height: 400px;
+  width: 600px;
+  border-radius: 10px;
+}
 .bot p {
   font-size: 25px;
   color: black;
@@ -46,9 +51,6 @@ h1 {
   font-size: 20px;
   color: black;
 }
-#bootom {
-  padding-bottom: 50px
-}
 
 .movielist {
   color: black;
@@ -56,7 +58,7 @@ h1 {
 }
 
 #honestly {
-  font-size: 25px;;
+  font-size: 25px;
   color: black;
 }
 
@@ -125,4 +127,17 @@ footer {
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+#index-page {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  padding-top: 100%;
+}
+#sarah {
+  padding-left: 45%;
+  height: 30%;
+  width: 30%;
+  position: relative;
 }
