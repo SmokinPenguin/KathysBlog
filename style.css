@@ -117,10 +117,9 @@ h1 {
   margin-left: 20px;
 }
 
-footer {
-  position: absolute;
+#imagine {
+  position: fixed;
   bottom: 0;
-  left: 0;
 }
 
 #maid {
@@ -136,7 +135,7 @@ footer {
 }
 
 #index-page {
-  position: absolute;
+  position: relative;
   bottom: 0;
   left: 0;
   padding-top: 100%;
