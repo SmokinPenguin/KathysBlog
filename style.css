@@ -130,14 +130,21 @@ footer {
 }
 
 #index-page {
-  position: relative;
+  position: absolute;
   bottom: 0;
   left: 0;
   padding-top: 100%;
 }
 #sarah {
-  padding-left: 45%;
+  padding-left: 40%;
+  bottom: 0;
+  right: 0;
   height: 30%;
   width: 30%;
   position: relative;
+}
+
+.sarah {
+  white-space: nowrap;
+  display: inline-block;
 }
