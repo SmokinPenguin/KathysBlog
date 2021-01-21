@@ -38,16 +38,23 @@ h1 {
   font-size: 55px;
 }
 
-#path {
+.path {
   height: 400px;
   width: 600px;
   border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-.bot p {
+figcaption {
+    text-align: center;
+}
+
+#bot p {
   font-size: 25px;
   color: black;
 }
-.bot li {
+#bot li {
   font-size: 20px;
   color: black;
 }
@@ -117,17 +124,6 @@ h1 {
   margin-left: 20px;
 }
 
-#imagine {
-  position: fixed;
-  bottom: 0;
-}
-
-#maid {
-  position: relative;
-  bottom: 0;
-  left: 0;
-}
-
 #main-pages {
   position: absolute;
   bottom: 0;
@@ -140,6 +136,14 @@ h1 {
   left: 0;
   padding-top: 100%;
 }
+#other-pages {
+  position: static;
+  bottom: 0;
+  left: 0;
+  padding-top: 25%;
+  margin-top: 50%;
+}
+
 #sarah {
   padding-left: 40%;
   bottom: 0;
