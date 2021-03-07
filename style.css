@@ -31,6 +31,7 @@ body {
   font-family: monospace, Monaco;
   font-size: 55px;
   text-shadow: 2px 2px rgb(230,232,250);
+  text-align: center;
 }
 
 h1 {
@@ -39,12 +40,13 @@ h1 {
 }
 
 .path {
-  height: 400px;
-  width: 600px;
+  width: 35%;
+  height: 20%;
   border-radius: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 5%;
 }
 figcaption {
     text-align: center;
@@ -53,10 +55,9 @@ figcaption {
 #bot p {
   font-size: 25px;
   color: black;
-}
-#bot li {
-  font-size: 20px;
-  color: black;
+  padding-top: 10%;
+  text-align: center;
+  font-size: 2em;
 }
 
 .movielist {
