@@ -68,6 +68,10 @@ figcaption {
   font-size: 25px;
   color: black;
 }
+#honestly2 {
+  font-size: 25px;
+  color: black;
+}
 
 .bandlist {
   font-size: 20px;
@@ -125,7 +129,7 @@ figcaption {
 }
 
 #main-pages {
-  position: absolute;
+  position: relative;
   bottom: 0;
   left: 0;
 }
@@ -143,6 +147,13 @@ figcaption {
   padding-top: 25%;
   margin-top: 50%;
 }
+#other-pages2 {
+  position: static;
+  bottom: 0;
+  left: 0;
+  padding-top: 31%;
+
+}
 
 #sarah {
   bottom: 0;
@@ -152,7 +163,6 @@ figcaption {
   float: right;
   padding-top: 10%;
 }
-
 .sarah {
   white-space: nowrap;
   margin-right: 0;
